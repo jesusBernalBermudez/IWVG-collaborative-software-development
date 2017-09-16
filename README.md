@@ -1,5 +1,4 @@
-# `IWVG. Ecosistema`
-## Ejercicio colaborativos entre alumnos
+# Ejercicio colaborativo entre alumnos
 El objetivo es instruir al alumno en el desarrollo de software colaborativo.
 
 Cada alumno deberá realizar dos roles: `Arquitecto de software` y `Programador`.
