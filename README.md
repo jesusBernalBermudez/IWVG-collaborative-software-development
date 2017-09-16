@@ -11,8 +11,6 @@ Se parte de un software ya desarrollado,
 y su función será coordinar y supervisar la modificación del mismo a traves de tickets y la wiki.
 Para ello, tendrá la colaboración de tres `Programadores`.
 
-**No podrá realizar ninguna modificación directa del software**.
-
 ## Programador
 Su función será realizar una query con sus tickets e intentar seguirlos *fielmente* y con la *rapidez* necesaria...
 
