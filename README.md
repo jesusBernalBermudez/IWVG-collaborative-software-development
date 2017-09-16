@@ -17,7 +17,7 @@ Su función será realizar una query con sus tickets e intentar seguirlos *fielm
 y sin mala intención **;-)**.
 
 ## Documentación detallada
-Mirar en la [wiki](/wiki) del proyecto
+Mirar en la [wiki](../../wiki) del proyecto
 
 ## Licencia
 **Máster de Ingeniería Web** por la **Universidad Politécnica de Madrid**.
