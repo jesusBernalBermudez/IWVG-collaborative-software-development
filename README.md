@@ -1,5 +1,4 @@
-# `SPAI`
-## Ejercicio colaborativos entre alumnos: ECP2
+# Ejercicio colaborativo entre alumnos
 El objetivo es instruir al alumno en el desarrollo de software colaborativo.
 
 Cada alumno deberá realizar dos roles: `Arquitecto de software` y `Programador`.
@@ -11,19 +10,15 @@ Se parte de un software ya desarrollado,
 y su función será coordinar y supervisar la modificación del mismo a traves de tickets y la wiki.
 Para ello, tendrá la colaboración de tres `Programadores`.
 
-**No podrá realizar ninguna modificación directa del software**.
-
 ## Programador
 Su función será realizar una query con sus tickets e intentar seguirlos *fielmente* y con la *rapidez* necesaria...
 
 y sin mala intención **;-)**.
 
 ## Documentación detallada
-Mirar en la [wiki][] del proyecto
+Mirar en la [wiki](../../wiki) del proyecto
 
 ## Licencia
 **Máster de Ingeniería Web** por la **Universidad Politécnica de Madrid**.
 
 *&copy;Jesús Bernal Bermúdez*.
-
- [wiki]: https://github.com/miw-upm/SPAI/wiki/Ecp2

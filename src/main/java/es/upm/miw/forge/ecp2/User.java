@@ -1,4 +1,4 @@
-package es.upm.miw.spai.ecp2;
+package es.upm.miw.forge.ecp2;
 
 public class User {
     private int number;

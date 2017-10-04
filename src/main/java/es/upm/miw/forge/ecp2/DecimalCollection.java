@@ -1,14 +1,15 @@
-package es.upm.miw.spai.ecp2;
+package es.upm.miw.forge.ecp2;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class DecimalCollection {
+
     private List<Double> collection;
 
     public DecimalCollection() {
-        this.collection = new ArrayList<Double>();
-    } 
+        this.collection = new ArrayList<>();
+    }
 
     public void add(double value) {
         this.collection.add(value);
@@ -19,6 +20,10 @@ public class DecimalCollection {
     }
 
     public double sum() {
+        assert collection != null;
+        if (this.collection.isEmpty()) {
+            throw new ArithmeticException("Empty collection");
+        }
         double sum = 0;
         for (double item : this.collection) {
             sum += item;
@@ -27,10 +32,15 @@ public class DecimalCollection {
     }
 
     public double higher() {
+        assert collection != null;
+        if (this.collection.isEmpty()) {
+            throw new ArithmeticException("Empty collection");
+        }
         double higher = Double.NEGATIVE_INFINITY;
         for (double item : this.collection) {
-            if (item > higher)
+            if (item > higher) {
                 higher = item;
+            }
         }
         return higher;
     }
